@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Sergey-Saprankov/Hexlet#readme",
   "devDependencies": {
+    "jest": "^28.1.1",
     "power-assert": "^1.6.1"
   }
 }
